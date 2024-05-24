@@ -1,7 +1,6 @@
 
 s.boot;
 
-// Define un sintetizador para el bombo electrónico
 (
 SynthDef(\elecKick, {
     arg amp = 0.8, freq = 60, decay = 0.3;
